@@ -1,2 +1,2 @@
-# goit_bot_assistante_phonebook
+# goit_bot_assistant_phonebook
 My homework for unit 9
